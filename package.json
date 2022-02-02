@@ -1,6 +1,6 @@
 {
   "name": "redbird",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "A reverse proxy with support for dynamic tables",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   "dependencies": {
     "bluebird": "^2.11.0 || ^3.7.2",
     "dolphin": "*",
-    "greenlock": "^2.8.8",
+    "greenlock": "^4.0.5",
     "http-proxy": "^1.18.0",
     "le-challenge-fs": "^2.0.9",
     "le-store-certbot": "^2.2.3",
